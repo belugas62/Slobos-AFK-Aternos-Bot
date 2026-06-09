@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "bondouranarchy.aternos.me:45341",
+    "ip": "bondouranarchy.aternos.me",
     "port": 45341,
     "version": "1.12.2",
     "try-creative": false
