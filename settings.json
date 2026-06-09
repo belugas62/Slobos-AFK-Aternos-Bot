@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
-    "version": "",
+    "ip": "bondouranarchy.aternos.me:45341",
+    "port": 45341,
+    "version": "1.12.2",
     "try-creative": false
   },
   "position": {
